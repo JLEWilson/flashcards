@@ -1,0 +1,16 @@
+.definition{
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.card {
+  min-height: 100px;
+}
+h1{
+  text-align: center;
+}
